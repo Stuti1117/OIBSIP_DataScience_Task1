@@ -47,7 +47,7 @@ The dataset contains:
 ---
 
 ## Files Included
-- `Pranav_Task1.ipynb`
+- `Stuti_Task1.ipynb`
 - `Iris.csv`
 - `README.md`
 
