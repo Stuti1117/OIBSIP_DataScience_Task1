@@ -50,8 +50,7 @@ The dataset contains:
 - `Stuti_Task1.ipynb`
 - `Iris.csv`
 - `README.md`
-- ![Screenshot](screenshots/Task_1_ss.png)
-
+- ![Screenshot](Task_1_ss.png)
 ---
 
 ## Output
@@ -61,4 +60,4 @@ The machine learning model classifies Iris flower species based on given flower 
 
 ## Output Screenshot
 
-![Screenshot](screenshots/Task_1_ss.png)
+![Screenshot](Task_1_ss.png)
