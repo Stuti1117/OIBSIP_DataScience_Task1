@@ -4,7 +4,7 @@
 ## Task Information
 - **Task Number:** Task 1
 - **Project Name:** Iris Classification Analysis
-- **Author:** Pranav Panara
+- **Author:** Stuti Bakrania
 
 ---
 
@@ -50,6 +50,7 @@ The dataset contains:
 - `Stuti_Task1.ipynb`
 - `Iris.csv`
 - `README.md`
+- ![Screenshot](screenshots/Task_1_ss.png)
 
 ---
 
@@ -58,7 +59,6 @@ The machine learning model classifies Iris flower species based on given flower 
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## Output Screenshot
 
----
+![Screenshot](screenshots/Task_1_ss.png)
